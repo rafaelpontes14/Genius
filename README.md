@@ -1,7 +1,4 @@
 # Genius
-<p align-center>
-<img src="genius-jogo-img.png" alt="projeto-finalizado" />
-</p>
 
 ## O que eu aprendi com esse projeto:
 
