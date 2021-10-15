@@ -21,4 +21,5 @@
   - carregar sons
   - setTimeout()
   - setInterval()
-  - Link a baixo projeto Genius <br>(https://game-geniuss.netlify.app)
+  
+  - Link abaixo projeto Genius <br>(https://game-geniuss.netlify.app)
